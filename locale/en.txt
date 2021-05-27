@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = PIDARI LONGE
+tour.name = PIDARI LOUNGE
 
 ## Skin
 
